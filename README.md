@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Aaryan Singh, MERN stack developer. Stack: HTML, CSS, JavaScript, MongoDB, Express, React, Node.js, Python. Projects: BRICSVue and MindCheck.">
+<div align="center">
+  <img src="./dark.svg" alt="Aaryan Singh, MERN stack developer. Stack: HTML, CSS, JavaScript, MongoDB, Express, React, Node.js, Python. Projects: BRICSVue and MindCheck." width="100%">
+</div>
 </picture>
 
 [**GitHub**](https://github.com/aaryansingh200617-cyber) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/whitehat-aaryan/) &nbsp;·&nbsp; [**Portfolio**](https://aaryandev.web.app)
